@@ -11,7 +11,7 @@ index.html을 더블클릭하면 홈페이지가 열립니다. 서버나 설치 
 ## 파일
 - index.html: CSS·JS 포함 홈페이지
 - images/winter-parker-logo2.png: 현재 홈페이지에 사용하는 브랜드 로고
-- images/winter-collection-v2.png: 세 패딩 모두 왼쪽 가슴에 새 로고를 적용한 메인 이미지
+- images/winter-collection-v3.png: 남성·여성·키즈 단독 제품을 겹쳐 배치하고 가슴 로고를 유지한 메인 이미지
 - images/men-jacket.png: 남성용 패딩 한 벌 단독 이미지
 - images/women-jacket.png: 여성용 패딩 한 벌 단독 이미지
 - images/kids-jacket.png: 키즈용 패딩 한 벌 단독 이미지
@@ -36,4 +36,4 @@ index.html을 더블클릭하면 홈페이지가 열립니다. 서버나 설치 
 - 키즈 목록: https://www.uniqlo.com/kr/ko/kids/outerwear/jackets
 - 키즈 상품: https://www.uniqlo.com/kr/ko/products/E478123-000/00
 
-제품 이미지는 AI 콘셉트입니다. 웹페이지는 로컬 파일로 제작했으며 온라인 호스팅은 하지 않았습니다.
+제품 이미지는 AI 콘셉트입니다. GitHub Pages 공개 대상은 docs/ 폴더이며 홈페이지 HTML과 필수 이미지 5개만 포함합니다. 기획서와 참고 문서는 공개 폴더에서 제외합니다.

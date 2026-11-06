@@ -3,15 +3,19 @@
 index.html을 더블클릭하면 홈페이지가 열립니다. 서버나 설치 과정은 필요 없습니다.
 
 ## 구현 내용
-- 베이지·토프 색상과 흰색 거미 SVG 심볼.
+- 베이지·토프 색상과 사용자가 지정한 winter-parker-logo2.png 로고.
 - 첨부된 애플 스타일의 큰 헤드라인, 제품 중심 이미지, 넓은 여백, 밝고 어두운 섹션, 파란 캡슐 버튼 적용.
 - 남성·여성·키즈 분류 버튼, 모바일 메뉴, FAQ, 준비 중 이벤트, 외부 상품 링크.
 - 가상 브랜드 콘셉트와 외부 판매 상품을 구분해 안내.
 
 ## 파일
 - index.html: CSS·JS 포함 홈페이지
-- images/logo.svg: 흰색 거미 심볼
-- images/winter-collection.png: 내장 imagegen으로 생성한 패딩 콘셉트 이미지
+- images/winter-parker-logo2.png: 현재 홈페이지에 사용하는 브랜드 로고
+- images/winter-collection-v2.png: 세 패딩 모두 왼쪽 가슴에 새 로고를 적용한 메인 이미지
+- images/men-jacket.png: 남성용 패딩 한 벌 단독 이미지
+- images/women-jacket.png: 여성용 패딩 한 벌 단독 이미지
+- images/kids-jacket.png: 키즈용 패딩 한 벌 단독 이미지
+- 제품 이미지는 내장 imagegen으로 각각 제작했으며, 단독 이미지에는 모두 새 로고가 포함되어 있습니다.
 - preview.png: 브라우저에서 확인한 첫 화면
 - image-prompt.txt: 이미지 생성에 사용한 프롬프트
 
@@ -32,4 +36,4 @@ index.html을 더블클릭하면 홈페이지가 열립니다. 서버나 설치 
 - 키즈 목록: https://www.uniqlo.com/kr/ko/kids/outerwear/jackets
 - 키즈 상품: https://www.uniqlo.com/kr/ko/products/E478123-000/00
 
-로고는 코드로 만든 SVG, 제품 이미지는 AI 콘셉트입니다. 웹페이지는 로컬 파일로 제작했으며 온라인 호스팅은 하지 않았습니다.
+제품 이미지는 AI 콘셉트입니다. 웹페이지는 로컬 파일로 제작했으며 온라인 호스팅은 하지 않았습니다.
